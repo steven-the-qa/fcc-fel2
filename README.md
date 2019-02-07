@@ -1,2 +1,2 @@
 # fcc-fel2
-freeCodeCamp's Front End Libraries Certification project #2--the Markdown Previewer
+2nd project for freeCodeCamp's Front End Libraries Certification -- Markdown Previewer
